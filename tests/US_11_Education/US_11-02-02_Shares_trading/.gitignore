@@ -1,0 +1,7 @@
+.pytest_cache/
+__pycache__/
+allure-results/
+allure-report/
+report/
+list_of_href.txt
+temp.py
